@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+header {
+    background-image: url('meno.jpg');
+    opacity: 75%;
+    background-repeat:no-repeat;
+    padding: 100px; 
+}
+
+li.menu {
+    display: inline;
+}
+
+li a {
+    color: black;
+    padding: 20px 16px;
+    text-decoration: none;
+    background-image: linear-gradient(to bottom right, white, gray);
+    font-weight: bold;  
+  }
+
+img {
+    border: solid 5px white;
+}
+
+p {
+    border: solid 2px white;
+    border-radius: 50px 20px;
+    padding: 18px;
+}
+
+footer {
+    padding: 30px; 
+    background-color: white;
+    color: black;
+    font-weight: bold; 
+}
