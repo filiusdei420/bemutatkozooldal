@@ -29,8 +29,7 @@ img {
 }
 
 p {
-    border: solid 2px white;
-    border-radius: 50px 20px;
+
     padding: 18px;
 }
 
@@ -41,3 +40,11 @@ footer {
     color: black;
     font-weight: bold; 
 }
+
+
+.jobboldali{
+    float: right;
+    border: solid 2px white;
+    border-radius: 50px 20px;
+}
+
